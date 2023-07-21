@@ -17,7 +17,8 @@ class ViewController: UIViewController {
     // 1 commit - main branch
     let a = 1
     let b = 2
-    let c = String()
-    let d = Double()
+    let c = String() // 1 commit - 1 branch
+    let d = Double() // 1 commit - 1 branch
+    // 2 commit - 1 branch
 }
 
