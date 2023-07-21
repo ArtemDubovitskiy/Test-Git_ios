@@ -23,5 +23,6 @@ class ViewController: UIViewController {
     let e = Bool() // 1 commit - 2 branch
     let f = 3.14 // 1 commit - 2 branch
     // 2 commit - 2 branch
+    // 3 commit - 2 branch
 }
 
