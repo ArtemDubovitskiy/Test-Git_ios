@@ -24,5 +24,7 @@ class ViewController: UIViewController {
     let f = 3.14 // 1 commit - 2 branch
     // 2 commit - 2 branch
     // 3 commit - 2 branch
+    // 3 commit - 1 branch
+    // 3 commit - 1 branch
 }
 
